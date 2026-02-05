@@ -1,0 +1,13 @@
+db.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.env
+.DS_Store
+node_modules
+npm-debug.log
+dist
